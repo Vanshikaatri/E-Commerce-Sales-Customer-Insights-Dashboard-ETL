@@ -211,8 +211,7 @@ All transformation logic and analytical queries required to reproduce the result
 
 sql/        → Database schema & analytical queries  
 etl/        → Python ETL automation scripts  
-powerbi/    → Dashboard screenshots  
-images/     → Supporting visuals  
+dashboard screenshots/    → Dashboard screenshots  
 README.md   → Project documentation  
 .gitignore  → File exclusion configuration  
 
